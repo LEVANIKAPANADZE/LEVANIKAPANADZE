@@ -57,7 +57,7 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 ## 🚀 Development Philosophy
 
-> *"Great software is built one improvement at a time."*
+> *"Consistency beats intensity. Small improvements every day build great software."*
 
 I enjoy solving problems, learning new technologies, and continuously improving my skills by building projects that challenge me.
 
