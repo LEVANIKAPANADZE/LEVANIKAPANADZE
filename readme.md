@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Levani Kapanadze
 
-### Front-End Developer | React · Next.js · JavaScript
-
 Building modern, responsive, and maintainable web applications.
 
 Passionate about clean code, intuitive user interfaces, and continuous learning.
@@ -18,12 +16,16 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge\&logo=react\&logoColor=white\&labelColor=20232a)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
@@ -32,22 +34,22 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 # 🧭 About Me
 
-* 🎯 Focused on building responsive, accessible, and user-friendly web applications
-* ⚛️ Enjoy working with React, Next.js, JavaScript, and modern front-end tooling
-* 🎨 Build reusable components with clean and maintainable code
-* 🐧 Linux is my daily development environment
-* 🌱 Continuously improving through real-world projects and hands-on learning
-* 🚀 Expanding my skills toward full-stack development
+* 🎯 Focused on building modern, responsive, and user-friendly web applications.
+* ⚛️ Enjoy creating reusable components and clean, maintainable code.
+* 💻 Comfortable working with React, Next.js, TypeScript, JavaScript, Python, and MongoDB.
+* 🐧 Linux is my primary development environment.
+* 🌱 Constantly learning by building real-world projects.
+* 🚀 Working toward becoming a skilled full-stack developer.
 
 ---
 
 # 🛠️ Development Workflow
 
-* ✅ Build responsive and interactive user interfaces
-* 🌿 Use Git feature branches and meaningful commit messages
-* 🧩 Create reusable and maintainable components
-* 🔍 Refactor code for readability and scalability
-* 📚 Learn continuously by building real projects
+* ✅ Write clean, maintainable, and scalable code.
+* 🌿 Use Git feature branches and meaningful commit messages.
+* 📱 Build responsive, accessible, and interactive user interfaces.
+* 🔄 Refactor continuously to improve readability and performance.
+* 📚 Learn new technologies through practical projects.
 
 ---
 
@@ -55,9 +57,9 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 ## 🚀 Development Philosophy
 
-> *"Every project is an opportunity to learn something new and write better code than yesterday."*
+> *"Great software is built one improvement at a time."*
 
-I believe consistent practice, curiosity, and building real applications are the fastest ways to grow as a developer.
+I enjoy solving problems, learning new technologies, and continuously improving my skills by building projects that challenge me.
 
 </div>
 
@@ -113,8 +115,10 @@ I believe consistent practice, curiosity, and building real applications are the
 
 <div align="center">
 
-⭐ Thanks for visiting my profile.
+### Thanks for stopping by! 👋
 
-If you like my work, feel free to explore my repositories and follow my journey as I continue learning and building.
+I'm always learning, building, and improving. Feel free to explore my repositories and follow my journey.
+
+⭐ If you find something interesting, don't forget to leave a star!
 
 </div>
