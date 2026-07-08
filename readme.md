@@ -93,16 +93,6 @@ I enjoy solving problems, learning new technologies, and continuously improving 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=LEVANIKAPANADZE&theme=onedark&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 # 📫 Contact
 
 <div align="center">
