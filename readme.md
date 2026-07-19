@@ -97,7 +97,7 @@ I enjoy solving problems, learning new technologies, and continuously improving 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kapanadzelevani522%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kapanadzelevani522@gmail.com)
+kapanadzelevani522@gmail.com
 
 </div>
 
