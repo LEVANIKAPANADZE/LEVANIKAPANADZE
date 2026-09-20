@@ -34,7 +34,7 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 # 🧭 About Me
 
-* 🎯 Focused on building modern, responsive, and user-friendly web applications.
+* 🎯 Focused on building modern, responsive, and user-friendly websites
 * ⚛️ Enjoy creating reusable components and clean, maintainable code.
 * 💻 Comfortable working with React, Next.js, TypeScript, JavaScript, Python, and MongoDB.
 * 🐧 Linux is my primary development environment.
