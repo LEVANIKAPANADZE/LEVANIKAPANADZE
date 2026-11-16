@@ -36,7 +36,7 @@ Passionate about clean code, intuitive user interfaces, and continuous learning.
 
 ---
 
-# 🧭 About Myself
+# 🧭 About Me
 
 * 🎯 Focused on building modern, responsive, and user-friendly websites
 * ⚛️ Enjoy creating reusable components and clean, maintainable code.
